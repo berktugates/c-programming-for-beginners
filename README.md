@@ -13,3 +13,17 @@
 ```c
 printf("Hello World");
 ```
+
+### Installation
+---
+```
+git clone https://github.com/berktugates/c-programming-for-beginners.git
+```
+
+### Usage
+---
+for Linux:
+```
+cd c-programming-for-beginners
+code
+```
